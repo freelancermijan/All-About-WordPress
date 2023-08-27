@@ -6,3 +6,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/freelancermijan/All-About-WordPress.git
 git push -u origin main
+
+ ## one liner
+
+    git add . && git commit -m "File Uploaded" && git push -u origin main
